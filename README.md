@@ -6,4 +6,5 @@ Self-teaching NLP
 
 # References
 
-- spaCy documentation: https://spacy.io/usage/processing-pipelines
+-  NLTK documention: https://www.nltk.org/index.html
+-  spaCy documentation: https://spacy.io/usage/processing-pipelines
