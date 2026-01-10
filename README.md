@@ -30,15 +30,7 @@ The goal is to **understand NLP concepts through practical methods**, hands-on c
 
 ---
 
+## References
 
-## 🛠️ Tools & Libraries
-
-- **Python**
-- **NLTK**
-- **spaCy**
-- **scikit-learn**
-- **NumPy**
-- **Pandas**
-- **Visual Studio Code**
-
----
+NLTK documentation: https://www.nltk.org/index.html
+spaCy documentation: https://spacy.io/usage/processing-pipelines
