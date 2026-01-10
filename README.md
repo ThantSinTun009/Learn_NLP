@@ -1,4 +1,4 @@
-# 📚 Self-Teaching Natural Language Processing (NLP)
+# Self-learning NLP
 
 This repository documents my **self-learning journey in Natural Language Processing (NLP)** using Python.  
 The materials and implementations in this repository are **primarily based on the book**:
@@ -8,9 +8,9 @@ The goal is to **understand NLP concepts through practical methods**, hands-on c
 
 ---
 
-## 🧠 Topics Covered 
+## Topics Covered 
 
-> NLP Basic
+> **NLP Basic**
 - Dividing text into sentences
 - Dividing sentences into words (Tokenization)
 - Part-of-Speech (POS) tagging
@@ -18,7 +18,7 @@ The goal is to **understand NLP concepts through practical methods**, hands-on c
 - Lemmatization (combining similar words)
 - Stopword removal
 
-> Playing with Grammar
+> **Playing with Grammar**
 - Counting nouns (singular and plural)
 - Dependency parsing
 - Splitting sentences into clauses
