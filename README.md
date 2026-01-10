@@ -33,4 +33,9 @@ The goal is to **understand NLP concepts through practical methods**, hands-on c
 ## References
 
 NLTK documentation: https://www.nltk.org/index.html
+
 spaCy documentation: https://spacy.io/usage/processing-pipelines
+
+<img width="1155" height="221" alt="image" src="https://github.com/user-attachments/assets/bbbf0e4e-7180-4556-b18d-cd2a1f426d71" />
+
+
